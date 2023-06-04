@@ -1,5 +1,3 @@
-import java.io.*;
-import java.util.* ;
 
 public class SetMatrixZeroes{
     public static void setZeros(int matrix[][]) {
